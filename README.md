@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi👋, I'm Samuel
+
+I am an electronic engineer passionate about the world of telecommunications and cloud systems. 
 
 <!--
 **samupagua/samupagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
