@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I am an electronic engineer from Venezuela passionate about the world of telecommunications and cloud systems, currently living in France.
+I am an electronic engineer from Venezuela passionate about the world of telecommunications, cybersecurity and cloud systems, currently living in France.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-pagua/)
 
