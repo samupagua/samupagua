@@ -9,7 +9,7 @@ I am an electronic engineer from Venezuela passionate about the world of telecom
 ## 🚀A few quick Facts:
 
 - 🔭 I’m currently working on AWS solutions architect certification.
-- 🌱 I’m currently learning how to deploy Infrastructure with Terraform and Ansible.
+- 🌱 I’m currently learning Python for Offensive cybersecurity.
 - 💬 Ask me about Linux and Networking.
 - 📫 You can reach me clicking on my linkedin page.
 - ⚡ Fun fact: Hablo español et parle aussi le français.
